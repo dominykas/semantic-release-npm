@@ -1,7 +1,7 @@
 {
   "name": "@semantic-release/npm",
   "description": "semantic-release plugin to publish a npm package",
-  "version": "5.2.0-development",
+  "version": "5.1.13",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
   "ava": {
     "files": [
